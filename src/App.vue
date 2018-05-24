@@ -6,6 +6,7 @@
 </template>
 
 <script>
+  // 到此一游
 export default {
   name: 'App'
 }
